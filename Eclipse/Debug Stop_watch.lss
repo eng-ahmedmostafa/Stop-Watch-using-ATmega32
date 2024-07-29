@@ -1,5 +1,5 @@
 
-Ahmed_Project2_Stop_watch.elf:     file format elf32-avr
+Stop_watch.elf:     file format elf32-avr
 
 Sections:
 Idx Name          Size      VMA       LMA       File off  Algn
