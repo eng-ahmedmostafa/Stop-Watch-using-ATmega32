@@ -7,4 +7,7 @@ Counting Start: Automatic start upon power connection to the MCU.
 Reset: Configured External Interrupt INT0 with a falling edge to reset time, using an internal pull-up resistor push button.
 Pause: Configured External Interrupt INT1 with a rising edge to pause time, using an external pull-down resistor push button.
 Resume: Configured External Interrupt INT2 with a falling edge to resume time, using an internal pull-up resistor push button.
+
+
+
 ![image](https://github.com/user-attachments/assets/458272d5-10e1-4ec5-985b-56dfa46d9728)
