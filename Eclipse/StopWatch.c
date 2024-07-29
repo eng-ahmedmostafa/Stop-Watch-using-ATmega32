@@ -1,3 +1,11 @@
+/*
+ ============================================================================
+ Name        : StopWatch.c
+ Author      : Ahmed Mostafa
+ Date        : 17 Sept 2023
+ Description : Stop Watch system based on ATmega32
+ ============================================================================
+ */
 
 #include <avr/io.h>
 #include <util/delay.h>
